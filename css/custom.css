@@ -2,6 +2,10 @@
 .layout_page {
   opacity: 0.9;
 }
+/* 取消页脚背景 */
+#footer {
+  background: none;
+}
 /* 滚动条优化 */
 ::-webkit-scrollbar {
   width: 8px;
